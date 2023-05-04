@@ -20,4 +20,4 @@ author_profile: true
 
 ### Current Work
 
-* I'm working on a physics ML project as part of the [Dunkel group](https://math.mit.edu/~dunkel/group.html), under [Alasdair Hastewell](https://math.mit.edu/directory/profile.html?pid=2112). I'm using physics informed neural networks to observe hidden dynamics in certain systems, in order to learn PDEs for those systems. 
+* I'm working on a physics ML project as a part of the [Dunkel group](https://math.mit.edu/~dunkel/group.html), under [Alasdair Hastewell](https://math.mit.edu/directory/profile.html?pid=2112). I'm using physics informed neural networks to observe hidden dynamics in certain systems, in order to learn PDEs for those systems. 
