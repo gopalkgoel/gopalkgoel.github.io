@@ -17,3 +17,7 @@ author_profile: true
 [(pdf)](/files/2011.10724.pdf) [(arXiv)](https://arxiv.org/abs/2011.10724) [(online)](https://doi.org/10.1093/imrn/rnac005)
 * Goel, G., & McGough, O., & Perkinson, D. (2023). Counting weighted maximal chains in the circular Bruhat order. Journal of Combinatorial Theory, Series A, 195.
 [(pdf)](/files/2108.03504.pdf) [(arXiv)](https://arxiv.org/abs/2108.03504) [(online)](https://doi.org/10.1016/j.jcta.2022.105709)
+
+### Current Work
+
+* I'm working on a physics ML project under the [Dunkel group](https://math.mit.edu/~dunkel/group.html), using physics informed neural networks to observe hidden dynamics in certain systems, in order to learn PDEs for those systems. 
