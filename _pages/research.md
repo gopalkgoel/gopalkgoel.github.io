@@ -14,7 +14,7 @@ author_profile: true
 * Goel, G., & Franklin, J. (2019). Finite and half-infinite solenoids and the Aharonov-Bohm effect. American Journal of Physics, 87, 862-867.
 [(online)](https://doi.org/10.1119/1.5124814)
 * Goel, G., & Yao, A. (2023). A Quantized Analogue of the Markov–Krein Correspondence. International Mathematics Research Notices, 2023(6), 4805-4838.
-[(pdf)](/files/2011.10724.pdf) [(arXiv)](https://arxiv.org/abs/2011.10724) [(online)](https://doi.org/10.1093/imrn/rnac005)
+[(pdf)](/files/2011.10724.pdf) [(arXiv)](https://arxiv.org/abs/2011.10724) [(online)](https://doi.org/10.1093/imrn/rnac005) [(slides)](/files/presentation_v2.pdf)
 * Goel, G., & McGough, O., & Perkinson, D. (2023). Counting weighted maximal chains in the circular Bruhat order. Journal of Combinatorial Theory, Series A, 195.
 [(pdf)](/files/2108.03504.pdf) [(arXiv)](https://arxiv.org/abs/2108.03504) [(online)](https://doi.org/10.1016/j.jcta.2022.105709)
 
