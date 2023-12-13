@@ -15,3 +15,6 @@ These are mostly writeups from classes I took at MIT.
 
 * Measuring Fine Structure Splitting in Sodium through Optical Spectroscopy. This was written for 8.13 (Junior Lab).
 [(pdf)](/files/hs_paper.pdf) [(slides)](/files/HS_presentation.pdf)
+
+* Measuring the Electron Mass through Compton Scattering. This was written for 8.13 (Junior Lab).
+[(pdf)](/files/hs_paper.pdf) [(slides)](/files/HS_presentation.pdf)
