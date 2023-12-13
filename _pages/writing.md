@@ -18,3 +18,6 @@ These are mostly writeups from classes I took at MIT.
 
 * Measuring the Electron Mass through Compton Scattering. This was written for 8.13 (Junior Lab).
 [(pdf)](/files/paper_revised.pdf) [(slides)](/files/exp2_presentation.pdf)
+
+* Measuring the Angular Dependence of Cosmic Ray Muons. This was written for 8.13 (Junior Lab).
+[(pdf)](/files/paper_revised_CW.pdf)
