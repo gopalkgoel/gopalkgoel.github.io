@@ -12,4 +12,4 @@ Hello, and welcome to my homepage! I am an undergraduate student at MIT studying
 
 I was involved extensively with math and physics olympiads in high school, and I represented the USA at the [2018 IPhO](https://www.aapt.org/physicsteam/2018/team.cfm?id=1025) and at the [2020 IMO](https://www.imo-official.org/participant_r.aspx?id=29882).
 
-Feel free to reach out at gopalkg [at] mit [dot] edu.
+Feel free to reach out at gopal.krishna.goel@gmail.com
