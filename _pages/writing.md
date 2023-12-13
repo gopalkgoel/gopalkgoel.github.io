@@ -17,4 +17,4 @@ These are mostly writeups from classes I took at MIT.
 [(pdf)](/files/hs_paper.pdf) [(slides)](/files/HS_presentation.pdf)
 
 * Measuring the Electron Mass through Compton Scattering. This was written for 8.13 (Junior Lab).
-[(pdf)](/files/hs_paper.pdf) [(slides)](/files/HS_presentation.pdf)
+[(pdf)](/files/paper_revised.pdf) [(slides)](/files/exp2_presentation.pdf)
