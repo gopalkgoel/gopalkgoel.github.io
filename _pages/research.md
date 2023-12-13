@@ -20,6 +20,5 @@ author_profile: true
 
 ### Current Work
 
-* I'm working on a physics ML project as a part of the [Dunkel group](https://math.mit.edu/~dunkel/group.html), under [Alasdair Hastewell](https://math.mit.edu/directory/profile.html?pid=2112). I'm using physics informed neural networks to observe hidden dynamics in certain systems, in order to learn PDEs for those systems. 
 * I'm working on a theoretical physics project under [Hong Liu](https://physics.mit.edu/faculty/hong-liu/), joint with Owen Dugan. We're using Prof. Liu's recent framework for effective field theory for hydrodynamics to try to analyze anomolies in superfluids.
 * I'm working on a combinatorics project under [Ashwin Sah](https://www.mit.edu/~asah/index.html) and [Mehtaab Sawhney](https://www.mit.edu/~msawhney/#). I'm using graph counting formulas to analyze sparse majority dynamics.
